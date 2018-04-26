@@ -22,3 +22,4 @@ app/
 temp/*
 npm-debug.log
 www/static/app/
+/.vscode
